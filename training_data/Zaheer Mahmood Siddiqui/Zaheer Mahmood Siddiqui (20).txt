@@ -1,0 +1,33 @@
+LAHORE: Some 11 per cent or so passengers have been getting their seats reserved through the Pakistan Railways Computerised Reservation System (PRCRS) introduced at 31 out of 808 stations and booking offices so far.
+
+“PRCRS was extended and implemented at 47 locations but is operational at 41 sites at present,” says a special study conducted by Auditor-General of Pakistan on Pakistan Railways Computerised Reservation and E-Ticketing for 2014-15.
+
+“The facility at Larkana, Jacobabad and Jang Saddar was damaged during riots following Benazir Bhutto’s assassination in December 2007. Software is ready in all aspects but implementation of PRCRS at Kasur, Pakpattan and Mianwali is delayed for want of equipment and civil works,” says the report lying pending with the Public Accounts Committee of the National Assembly.
+
+Finalised in the light of discussions in meetings with the departmental accounts committee of the Pakistan Railways, the report says PRCRS does not cover all types of passenger ticketing to enable production of complete accounting and statistical information relating to passenger traffic.
+
+Printed card tickets, blank paper tickets, excess fare tickets and monthly season tickets cannot be included in the PRCRS, depicting that the PR has yet to take 89 per cent of the passengers on board.
+
+Increase or decrease in passenger fares is updated in the system, 15 to 20 days after the announcement, causing huge loss to the PR. Absence of revenue reconciliation and recognition module leaves the system open to the risk of misuse.
+
+PRCRS can only print tickets in English language which a vast majority of passengers cannot read. Other system design deficiencies exist in the existing software like non-adjustment of late train departure time, non-friendly interface, manual entry of amount of all cancellation and refund of tickets, non-integration with external booking agencies and non-availability of seat plan.
+
+Non-availability of system documentation, operational manual, training manual etc. caused many problems, like late night working after office hours, increase in the number of errors made, system non-availability and increase in down time.
+
+Owing to several manual checks and controls, the PR has not been able to generate even a single final report from the PRCRS.
+
+There is excessive inter-dependence over the communication network between the operational divisions of the PR. In case link of one division is down the inter-connected divisions would be cut off from the entire network.
+
+There is no structured or documented disaster recovery policy for Pakistan Railways Computerised Reservation System (PRCRS) and in case of a physical or man-made disaster, no alternate site with reserve servers is available for transacting reservations. Access to all the locations housing the servers of PRCRS has neither been restricted nor monitored through electronic security systems.
+
+The E-ticketing system, after remaining operational for three months or so, remained closed from Jan 29, 2008, to Oct 3 this year.
+
+The system was launched in November 2007 with the collaboration of e-merchant services of Citibank and a hefty amount was spent on it. However, it was discontinued three months or so after its launch due to some issues with the Citibank.
+
+The MCB proposal for providing E-ticketing gateway to the PR submitted in January 2008 remained `under consideration’ of the railways management till 2014.
+
+However, the PR had on Aug 10 this year inked an agreement with the United Bank Ltd (UBL) to re-launch from Sept 1 E-ticketing system initially in Green Line Express from Rawalpindi and rail cars from Lahore.
+
+Minister for Railways Khwaja Saad Rafique said at the formal re-launching of the e-ticketing system on Oct 3 that initially, it has been introduced in Green Line Express besides five rail cars. Green Line runs between Karachi and Islamabad and the rail cars between Lahore and Islamabad.
+
+The minister announced that within the next eight months, e-ticketing facility would be available for all passenger trains of the Pakistan Railways.
