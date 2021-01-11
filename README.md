@@ -3,3 +3,5 @@ A complete desktop-application developed in Python that performs Authorship Attr
 
 
 ![Alt text](image2.jpg?raw=true "Author Identification System")
+
+![alt text](https://github.com/umairspn/Author-Identification-System/blob/main/image1.PNG?raw=true)
