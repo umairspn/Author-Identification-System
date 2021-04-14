@@ -9,8 +9,6 @@ A complete desktop-application developed in Python that performs Authorship Attr
 ## Dataset  
 For our datasets with around 50-100k sentences, it takes about 5 minutes to train the model on a local CPU while reaching an accuracy of about 70-80% for test data. 
 
-<br />
-
 
 ## Tools and Technologies 
 Programming Language is **PYTHON** whereas the tool Used is **Python Shell 3.5**.    
@@ -19,3 +17,7 @@ Programming Language is **PYTHON** whereas the tool Used is **Python Shell 3.5**
 ## Snapshot of Python Shell 
 
 ![alt text](https://github.com/umairspn/Author-Identification-System/blob/main/image2.PNG?raw=true "Author Identification System")
+
+
+
+<br /> 
