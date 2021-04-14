@@ -13,8 +13,7 @@ For our datasets with around 50-100k sentences, it takes about 5 minutes to trai
 
 
 ## Tools and Technologies 
-Programming Language:     PYTHON 
-Tool Used:                Python Shell 3.5 
+Programming Language is **PYTHON** whereas the tool Used is **Python Shell 3.5**.    
 
 
 ## Snapshot of Python Shell 
