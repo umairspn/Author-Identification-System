@@ -3,7 +3,7 @@
 ## My bachelor's capstone 
 
 ### Overview 
-A complete desktop-application developed in Python that performs Authorship Attribution. Given a labeled corpus of newspaper articles, we train a model by extracting stylometry features from text with TF-IDF weighing and stemming techniques, and classify the correct author using cosine similarity, KNN and SVM classifiers. 
+A complete desktop-application developed in Python that performs **Authorship Attribution**. Given a labeled corpus of newspaper articles, we train a model by extracting stylometry features from text with TF-IDF weighing and stemming techniques, and classify the correct author using cosine similarity, KNN and SVM classifiers. 
 
 
 ## Dataset  
