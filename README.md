@@ -19,5 +19,10 @@ Programming Language is **PYTHON** whereas the tool Used is **Python Shell 3.5**
 ![alt text](https://github.com/umairspn/Author-Identification-System/blob/main/image2.PNG?raw=true "Author Identification System")
 
 
+## Contributors
+Mohammad Umair 
+<br /> 
+Dr. Arif Rahman (Associate Professor, Bahria University, Islamabad) 
+
 
 <br /> 
