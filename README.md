@@ -16,7 +16,7 @@ Programming Language is **PYTHON** whereas the tool Used is **Python Shell 3.5**
 
 ## Snapshot of Python Shell 
 
-![alt text](https://github.com/umairspn/Author-Identification-System/blob/main/image2.PNG?raw=true "Author Identification System")
+![alt text](https://github.com/umairspn/Author-Identification-System/blob/main/image2.png?raw=true "Author Identification System")
 
 
 ## Contributors
